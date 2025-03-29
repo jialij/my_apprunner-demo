@@ -11,6 +11,6 @@ Resources:
       SourceConfiguration: 
         ImageRepository: 
           ImageConfiguration:
-            Port: "8080"
+            Port: "8501"
           ImageRepositoryType: "ECR_PUBLIC"  
           ImageIdentifier: "public.ecr.aws/f0j5z9b5/apprunner-api-demo:latest"
