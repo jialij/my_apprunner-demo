@@ -1,6 +1,6 @@
 FROM public.ecr.aws/docker/library/python:3.9.9-slim
 
-EXPOSE 8080
+EXPOSE 8501
 
 WORKDIR /app
 
